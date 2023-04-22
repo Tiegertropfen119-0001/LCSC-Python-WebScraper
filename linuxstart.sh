@@ -5,4 +5,5 @@ pip install bs4
 pip install requests
 pip install datetime
 pip install time
+pip install pandas
 screen -AmdS scrapy python3 scrp.py
