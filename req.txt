@@ -2,3 +2,5 @@ bs4
 requests
 datetime
 time
+pandas
+openpyxl
