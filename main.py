@@ -51,4 +51,5 @@ def autoscrapper():
             lcscscraper(i["url"], i["span"], i["fronttext"])
         time.sleep(config.delayBetweenPriceCheck)
 
-autoscrapper()
+if __name__ == '__main__':
+    autoscrapper()
